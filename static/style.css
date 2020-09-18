@@ -1,0 +1,13 @@
+#home {
+    text-align: center;
+}
+
+/* addcard.html */
+#newcard {
+    text-align: center;
+}
+
+input {
+    height: 50%;
+    width: 75%;
+}
